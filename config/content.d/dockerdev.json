@@ -1,5 +1,5 @@
 {
-  "deconstdev": {
+  "dockerdev": {
       "content": {
           "/": "https://github.com/rackerlabs/docs-developer-blog/"
       },
